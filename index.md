@@ -1,6 +1,6 @@
 ## SPACEINVADERS
 
-###➔DESCRIPCIÓN BREVE
+### ➔DESCRIPCIÓN BREVE
 
 =
 =
@@ -9,7 +9,7 @@
 =
 =
 
-##➔Planificación y administración del proyecto
+## ➔Planificación y administración del proyecto
 
 
 
@@ -20,4 +20,4 @@
 
 
 
-##➔Diseño
+## ➔Diseño
